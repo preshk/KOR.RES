@@ -1,0 +1,51 @@
+.top-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .about-cooks {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .cook-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .cook {
+    max-width: 200px;
+    text-align: center;
+  }
+  
+  .cook-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin: 10px 0 5px;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #777;
+    padding: 0 10px;
+  }
+  
